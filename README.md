@@ -1,1 +1,1 @@
-Devops assignment 01 readme
+Devops assignment 01 updated readme
